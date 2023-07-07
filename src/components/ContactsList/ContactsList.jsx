@@ -1,4 +1,4 @@
-import { Box, Btn, ListBox } from './ContactsList.styled';
+import { Btn } from './ContactsList.styled';
 import { useDispatch, useSelector } from 'react-redux';
 import { deleteContact } from '../redux/AddContactsSlice';
 
